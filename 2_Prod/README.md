@@ -1,2 +1,0 @@
-# VideoProductionPipeline
-Video Production Pipeline
