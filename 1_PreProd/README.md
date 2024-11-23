@@ -103,6 +103,11 @@
    - 🔗 Input links (Canva sources)
    - ✅ Output checkmarks
 
+References:
+- https://www.canva.com/design/DAGLeONjcvo/5VkTpoCYQLTALTUCT9BNOA/edit
+- https://www.canva.com/design/DAGJIWW-b-8/3dTWl3icFYzdmo0NdpBAFw/edit
+- https://www.canva.com/design/DAGLeONjcvo/5VkTpoCYQLTALTUCT9BNOA/edit
+
 💭 Prompts:
    - update with emojiis 
    - 🎬 Video pre production context adapt
