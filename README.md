@@ -12,4 +12,4 @@ A comprehensive video production workflow management system that streamlines the
 
 The pipeline focuses on leveraging AI and modern techniques while maintaining a creative, pen-to-paper approach for ideation. Built to help close skill gaps and create impactful video content through structured yet flexible workflows.
 
-git pull; git add . ; git commit -m "XXX" ; git push
+git pull; git add . ; git commit -m "update started" ; git push
