@@ -1,111 +1,78 @@
-🧠 Description
+# 🎬 Pre-Production Workflow
 
-🎯 Why > poverty important: close skills gap by leveraging with AI (ikigai)
+## 🎯 Mission & Goals
+- Close skills gap by leveraging AI capabilities (ikigai approach)
+- Learn through operator/instance implementation model
+- Integrate weekly tasks into ongoing side projects
+- Connect with current contract work
+- Apply company insights to first principles learning
 
-🎓 Learn with operator implement with instance
+## 📊 Workflow Structure
+- Kanban board for each project section
+- Template system:
+  - ClassTemplateSourceSort (source templates)
+  - Weekly instances with updated Kanban boards
+- Weekly video production & analytics reviews (Sundays)
+- B-roll planning and development tracking
 
-🔄 Integrate this week's tasks into ongoing side project
+## 📋 Kanban Implementation
+### Key Features
+- Divergence master screen write at pre-production end
+- Top rows for active focus, lower rows for GPT processing
+- Enter key workflow for efficient board navigation
+- Most recent logs at top, chronological order maintained
 
-🤝 By linking current contract work
+### Schedule Breakdown
+- Monday – Tuesday: Initial Planning
+- Wednesday – Thursday: Development  
+- Friday – Saturday: Refinement
+- Sunday: Review & Planning
 
-📝 Not needed in main instance for video work in back
+## ⚡ Process Optimization
+- Pen-based gap analysis and iteration
+- Background engineering updates
+- 1 hour weekly time commitment
+- Natural content capture focus
+- Max 3 concurrent work lanes (WIP limit)
 
-💡 Leverage company-based insights to first principles based learning
+## 🤝 Collaboration
+- Regular team notifications
+- Weekly collaboration sessions
+- Natural Kanban board logging
+- Limbic pen approach for ideation
 
-📊 Kanban board for each section
+## 💡 Content Development
+### Ideation Process
+- Single idea focus approach
+- Operator/Instance structure alignment
+- Weekly pre-production learning integration
 
-📝 Not needed in main instance for video work in back
+### Deliverables
+- Updated technical implementations
+- Engineering progress documentation
+- Kanban screenshots and tips
+- B-roll planning documents
 
-📋 Pull in template page by copy and fix pages before copying to destination
+## 🎨 Creative Workflow
+- Hand-drawn planning integration
+- Convergent idea refinement
+- PDF resource compilation
+- Guide and process updates
+- Weekly production analytics
 
-📑 Types:
-- ClassTemplateSourceSort remains there and only instances gets created per week
-- Instance remains there with updated Kanban boards
+## 📚 Resources
+### Guide Workflows
+1. A-E Sequence
+   - Link: https://www.canva.com/design/DAGLeONjcvo/5VkTpoCYQLTALTUCT9BNOA/edit
+   - Flow: Friction ➡️ Content ➡️ Divergence ➡️ Packing ➡️ Visual Walkthrough
 
-🎥 Weekly Video Production and Analytic Calls on Sundays
+2. R-Z Sequence
+   - Link: https://www.canva.com/design/DAGJIWW-b-8/3dTWl3icFYzdmo0NdpBAFw/edit
+   - Flow: Friction ➡️ Content ➡️ Divergence ➡️ Packing ➡️ Visual Walkthrough
 
-👀 Plan B-roll of developments
-
-🔄 Compounding the retro process from the past
-
-✏️ Adopt a less structured, more creative approach—closer to pen and paper
-
-📋 Kanban's Advantage:
-   - 📝 Use a divergence master screen write at end of pre-production
-   - 📊 Kanban operates with entries and rows; only top rows are focus, others for GPT
-
-⬆️ Kanban Flow Tip:
-   - ↩️ Hit "Enter" on Kanban board without scrolling down
-   - 📝 Most recent log stays at top, oldest remains at bottom
-
-📅 Schedule:
-- 📅 Monday – Tuesday
-- 📅 Wednesday – Thursday  
-- 📅 Friday – Saturday
-- ☀️ Sunday
-
-✏️ Pen to find gaps and iterate on it
-
-⚙️ Constant engineer updates in background
-
-⏰ One Hour per week is ok
-
-🔄 Previous Retro:
-- 📸 Focus on Natural Capture for Guide and Content
-
-👥 Accountability Partner/Team:
-- 📢 Notify them about plan
-- 🤝 Collaborate during week
-
-📋 Logging Events:
-- ✍️ Log naturally to Kanban board
-
-🚦 WIP Limit:
-- 3️⃣ Max 3 lanes to work on at a time
-
-🖊️ Focus:
-- 🧠 Use limbic pen to start plan and idea development
-
-🎬 Video Production:
-- 🎯 Most work happens during introverted planning stage
-
-
-🎯 Inputs
-
-💭 Idea Generation:
-   - 🌱 Start with one idea or none
-   - 🎯 Focus on one main incident
-   - 🤝 Operator and Instance structure support each other
-   - 📚 Weekly preprod learnings
-
-
-
-✅ Output Checklist:
-   - 🔧 Latest techniques added
-   - ⚙️ Constant engineer updates
-   - 💡 Kanban backlog tips with screenshots
-   - 🎥 B-roll plans
-
-🎨 Creative Process:
-   - ✏️ Hand-drawn planning elements
-   - 🔄 Converge approach for idea refinement
-   - 📄 Free PDF merging for resources
-   - 📋 Updated guides with Kanban progression
-   - 🔄 Updated process with retro compounding
-   - 🎬 Weekly video production & analytics
-
-🎯 Structure & Resources:
-   - 🔗 Input links (Canva sources)
-   - ✅ Output checkmarks
-
-References:
-📋 Guide Workflows:
-   name: A-E ➡️ 🔄 Friction ➡️ 📝 Content ➡️ 🌟 DIVERGENCE ➡️ 📦 Packing ➡️ 👁️ Visual Walkthrough 2024 v7
-   link: https://www.canva.com/design/DAGLeONjcvo/5VkTpoCYQLTALTUCT9BNOA/edit
-   name: R-Z ➡️ 🔄 Friction ➡️ 📝 Content ➡️ 🌟 DIVERGENCE ➡️ 📦 Packing ➡️ 👁️ Visual Walkthrough 2024 v7
-   link: https://www.canva.com/design/DAGJIWW-b-8/3dTWl3icFYzdmo0NdpBAFw/edit
-   name: L-Q ➡️ 🔄 Friction ➡️ 📝 Content ➡️ 🌟 DIVERGENCE ➡️ 📦 Packing ➡️ 👁️ Visual Walkthrough 2024 v7
-   link: https://www.canva.com/design/DAGLeONjcvo/5VkTpoCYQLTALTUCT9BNOA/edit
+3. L-Q Sequence
+   - Link: https://www.canva.com/design/DAGLeONjcvo/5VkTpoCYQLTALTUCT9BNOA/edit
+   - Flow: Friction ➡️ Content ➡️ Divergence ➡️ Packing ➡️ Visual Walkthrough
 
 💭 Prompts:
     - add or update with emojis 
@@ -113,4 +80,5 @@ References:
     - 📝 Document Workflow 
     - 🔧 Latest tech map
     - Remove or fix the gaps in the markdown
+    - Add Remove markdown formatting for headers subheaders and lists
 
