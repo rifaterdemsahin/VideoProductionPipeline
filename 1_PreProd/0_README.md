@@ -76,10 +76,13 @@
    - Flow: Friction ➡️ Content ➡️ Divergence ➡️ Packing ➡️ Visual Walkthrough
 
 💭 Prompts:
-    - add or update with emojis 
-    - 🎬 Video pre production context adapt
-    - 📝 Document Workflow 
-    - 🔧 Latest tech map
-    - Remove or fix the gaps in the markdown
-    - Add Remove markdown formatting for headers subheaders and lists
+    - 🎯 Add or update content with relevant emojis
+    - 🎬 Adapt content for video pre-production context
+    - 📝 Document and optimize pre-production workflow
+    - 🔧 Update technical implementation mapping
+    - 🔍 Review and fix markdown formatting gaps
+    - ✨ Enhance headers, subheaders and list formatting
+    - 📊 Validate content structure and flow
+    - 🎨 Apply consistent styling guidelines
+    - 🔄 Iterate based on team feedback
 
