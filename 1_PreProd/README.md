@@ -12,6 +12,7 @@
 - Kanban board for each project section
 - Template system:
   - ClassTemplateSourceSort (source templates)
+  - Weekly instances with updated Kanban boards
 - Weekly video production & analytics reviews (Sundays)
 - B-roll planning and development tracking
 
