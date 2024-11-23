@@ -33,6 +33,7 @@
 - Use AI tools for content refinement
 - Maintain consistent improvement cycle
 - Fears and the wants and needs outlined
+- Use prompts to refine and iterate at the bottom in yaml structure
 
 ### 📚 Continuous Improvement
 - Integrate concepts into broader narrative
