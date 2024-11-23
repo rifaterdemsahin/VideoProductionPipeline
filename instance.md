@@ -148,13 +148,13 @@
   - Prompter integration: [Use the prompter like a presentation tools to be able to deliver the content]
 
 ### 🎯 Strategic Focus
-- 🔍 Ikigai Analysis: []
-  - Red markers: Purpose identification: []
-  - Purple markers: Subject connections: []
-  - Core value proposition: []
+- 🔍 Ikigai Analysis: [mix it with Rifat Erdem Sahin Flex and the self learning framework]
+  - Red markers: Purpose identification: [Purpose of the content start with fears of the audience inn the hook]
+  - Purple markers: Subject connections: [Subject value connections with the audience as the values in the mind map]
+  - Core value proposition: [The core of that we are going to talk and why it is trending]
 
 ### 📝 Implementation Notes
-- Maintain authenticity in delivery: []
+- Maintain authenticity in delivery: [Tell them this is your story to tell]
 - Balance structured content with natural flow: []
 - Integrate personal insights with technical expertise: []
 
@@ -162,15 +162,15 @@
 
 ##Production
 ### 📋 Backlog
-- 📑 Bookmarks: []
-- 📝 Transcribe: []
+- 📑 Bookmarks: [Create a folder and add the bookmarks, add it to the git repo and have a commit on it]
+- 📝 Transcribe: [Use the davinci resolve and be able to do the initial marker cut over the print]
 
 ### ⏳ In Progress
-- 🚀 Implemented
+- 🚀 Implemented and moved to canva
 
 ### ✅ Completed
-- 📚 Collected
-- 🗃️ Archive
+- 📚 Published in the channel
+- 🗃️ Archived in the bookmarks
 
 
  
