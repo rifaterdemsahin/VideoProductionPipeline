@@ -1,76 +1,75 @@
-# 🎬 A-Roll Recording Guide
+🧠 Description
+🎬 A-Roll Recording Strategy
+- Capture high-quality educational content
+- Optimize technical setup and workflow
+- Follow structured recording process
 
-## 📋 Project Status
-### 🔄 Backlog
-- 📝 Script refinement
-- 🎥 Camera setup optimization
+🕰️ Previous Retro
+- Audio configuration needs improvement
+- Scene blocking workflow effective
+- Technical setup documentation updated
 
-### ⏳ In Progress  
-- 🎙️ Audio configuration
-- 🎬 Scene blocking
+🔍 Required Inputs
+- 📝 Finalized script
+- 🎥 Recording equipment
+- 🖥️ Presentation assets
 
-### ✅ Done
-- 📜 Initial screenplay
-- 🏢 Basic set preparation
+🎯 Recording Checklist
 
-## 🎥 Recording Process
-### 🎬 Scene Recording Guide
-- 📹 Follow screenplay for authentic educational content
-- 🗣️ Focus on natural delivery and engagement
-- ✨ Capture genuine teaching moments
+⏱️ Pre-Recording Tasks
+1. 📋 Project Setup
+   - Review screenplay
+   - Configure equipment
+   - Prepare presentation
+   - Allow 1 hour per week
 
-### 🛠️ Technical Setup
-#### 🎙️ Audio Equipment
-- 🎤 XLR microphone configuration
-- 🔊 Audio mixer levels check
-- 🎚️ Mono/stereo settings validation
-- 🔍 Source input verification
+2. 🎙️ Audio Configuration
+   - Set XLR microphone
+   - Check mixer levels
+   - Verify mono settings
+   - Test input sources
+   - Document audio setup
 
-#### 📹 Video Equipment
-- 🎥 Camera positioning
-- 💻 OBS configuration
-- 📱 Teleprompter setup (cueprompter.com)
+3. 📹 Video Setup
+   - Position camera
+   - Configure OBS
+   - Load teleprompter
+   - Test recording view
+   - Check frame quality
 
-### 📊 Resource Links
-- 🎨 Canva Presentation: [Design Link](https://www.canva.com/design/DAGQv6PeRx4/aixoRRHYMkb3QhMm79v5Ng/edit?ui=eyJGIjp7fX0)
-- 💾 Drive Storage: [Folder Link](https://drive.google.com/drive/folders/1ZTD2PQkIinUzzgUnrAUIbJ8UxgHHEs3O)
+4. 🎬 Scene Management
+   - Block key moments
+   - Time scene segments
+   - Mark presentation points
+   - Review transitions
+   - Document flow
 
-## ✅ Recording Checklist
-### 🎯 Pre-Recording
-- 📑 Bookmark key points
-- 🖥️ Prepare presentation
-- ⚙️ Configure OBS
-- 🎙️ Complete audio checks:
-  - 🔊 Mixer levels
-  - 🔴 Peak indicators
-  - 🔄 Mono settings
-  - 🎤 XLR connection
-  - 📱 Input source
+5. 🔍 Quality Control
+   - Test audio levels
+   - Verify video feed
+   - Check lighting setup
+   - Review equipment
+   - Document settings
 
-### ⏱️ During Recording
-- 🖼️ Navigate presentation with Shield imagery
-- ⏲️ Time scenes (2 minutes each)
-- 📝 Maintain authentic storytelling
-- ✏️ Utilize drawing elements
+📊 Task Status
 
-### 📋 Post-Recording
-- 🔍 Review footage
-- 📝 Generate audio transcription
-- 📤 Export to publishing section
+⏳ In Progress
+- Audio configuration
+- Scene blocking
+- Technical setup
 
-## ⏱️ Time Management
-- ⌛ Schedule one hour weekly
-- 📅 Plan regular review sessions
+✅ Completed
+- Initial screenplay
+- Basic set preparation
 
-## 📝 Notes
-[Add recording notes here]
-
- 
+🔗 Resources
+- 🎨 Canva: https://www.canva.com/design/DAGQv6PeRx4/aixoRRHYMkb3QhMm79v5Ng/edit?ui=eyJGIjp7fX0
+- 💾 Drive: https://drive.google.com/drive/folders/1ZTD2PQkIinUzzgUnrAUIbJ8UxgHHEs3O
 
  💭 Prompts:
     - 🎯 Add or update content with relevant emojis
-    - 🎬 Adapt content for video pre-production context
-    - 📝 Document and optimize pre-production workflow
+    - 🎬 Adapt content for video production context
+    - 📝 Document and optimize production workflow
     - 🔧 Update technical implementation mapping
     - 🔍 Review and fix markdown formatting gaps
     - ✨ Enhance headers, subheaders and list formatting
