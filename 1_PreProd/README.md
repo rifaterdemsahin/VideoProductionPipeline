@@ -105,12 +105,12 @@ References:
    name: R-Z ➡️ 🔄 Friction ➡️ 📝 Content ➡️ 🌟 DIVERGENCE ➡️ 📦 Packing ➡️ 👁️ Visual Walkthrough 2024 v7
    link: https://www.canva.com/design/DAGJIWW-b-8/3dTWl3icFYzdmo0NdpBAFw/edit
    name: L-Q ➡️ 🔄 Friction ➡️ 📝 Content ➡️ 🌟 DIVERGENCE ➡️ 📦 Packing ➡️ 👁️ Visual Walkthrough 2024 v7
-link: https://www.canva.com/design/DAGLeONjcvo/5VkTpoCYQLTALTUCT9BNOA/edit
+   link: https://www.canva.com/design/DAGLeONjcvo/5VkTpoCYQLTALTUCT9BNOA/edit
 
 💭 Prompts:
-   - update with emojiis 
-   - 🎬 Video pre production context adapt
-   - 📝 Document Workflow 
-  - 🔧 Latest tech map
-  - fix the gaps in the markdown
+    - add or update with emojis 
+    - 🎬 Video pre production context adapt
+    - 📝 Document Workflow 
+    - 🔧 Latest tech map
+    - Remove or fix the gaps in the markdown
 
