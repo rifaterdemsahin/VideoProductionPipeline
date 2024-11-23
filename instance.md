@@ -29,7 +29,7 @@
 ---
 ## 🔄 Research & Development
 
-### 📋 Backlog
+### 📋 Backlog process
 - 📚 Abstract concept development: [Rifat fills the gap identified the issue and the solution, records as a git repo, example Thanos proxy]
 - 🎯 Event research and analysis : [Do the implemenation with the team in the contract]
 - 🗣️ Talk points and presentation flow: [Rifat will be the host and the guest will be the expert in the field and they pair up to discuss the topic]
@@ -50,7 +50,6 @@
 - 🎬 Expected video output mapping: [the lacans triad with the numbering would be followed]
 - 🎭 Role play scenarios: [Rifat will be the host and the guest will be the expert in the field and they pair up to discuss the topic]
 - 📖 Story arc development: [Rifat will develop the story arc with the help of the current events in his contract and get the generic parts]
-
 
 ---
 ## 🔄 Development Preview
@@ -73,6 +72,7 @@
 - 📋 Requirements gathering: [the current scrum tasks that he works on]
 - 🔄 Initial workflow mapping: [the current workflow of the project defined the weeks video as the retro]
 - ✨ Feature prioritization: [Dont take the trending topics but make the existing project trendy]
+
 ---
 
 ## 🎯 Character Development & Unfair Advantage
@@ -171,8 +171,6 @@
 ### ✅ Completed
 - 📚 Published in the channel
 - 🗃️ Archived in the bookmarks
-
-
  
 💭 Prompts:
     - 🎯 Add or update content with relevant emojis
@@ -184,11 +182,3 @@
     - 📊 Validate content structure and flow
     - 🎨 Apply consistent styling guidelines
     - 🔄 Iterate based on team feedback
-
- 
-
- 
-
- 
-
-
