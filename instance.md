@@ -1,10 +1,10 @@
-# 📝 Pre-Production Workflow
+# 📝 Instance End2 End Production Workflow
 ## Instance Mapping with the Sections
 ---
 ## 🎯 Title Development
-- 🔄 Working Title: [Add title here]
-- 📊 Trend Analysis
-- 📈 Volume/Betting Analysis
+- 🔄 Working Title: [Start the action here  > add to the prompter]
+- 📊 Trend Analysis : [Make sure there is filling up trend in last 4 weeks]
+- 📈 Volume/Betting Analysis : [Make sure there is enough volume on the subject]
 
 ## 💡 Ideation
 - ✨ Selected Concept
