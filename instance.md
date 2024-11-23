@@ -6,57 +6,59 @@
 - 📊 Trend Analysis : [Make sure there is filling up trend in last 4 weeks]
 - 📈 Volume/Betting Analysis : [Make sure there is enough volume on the subject]
 
-## 💡 Ideation
-- ✨ Selected Concept : []
-- 🎨 Thumbnail Design: []
+### 💡 Ideation
+- ✨ Selected Concept : [Working in the contract Rifat Fills the gap identified the issue and the solution]
+- 🎨 Thumbnail Design: [Thumbnail should be simple and easy to understand from the channel template]
  
-## 📋 Backlog
+### 📋 Backlog
 - 🔄 Initialize project setup: []
 - 👥 Customer volume requirements: []
 - 📈 Trend alignment strategy: []
 - 📱 Pocket Paper integration: []
 
-## ⏳ In Progress
-- 🎬 Generate 3 SEO-optimized YouTube titles:
+### ⏳ In Progress
+- 🎬 Prompt : Generate 3 SEO-optimized YouTube titles that triggers curiosity, From the idea []
   1. [Title option 1]
   2. [Title option 2] 
   3. [Title option 3]
 
-## ✅ Completed Tasks
-[Add completed items here]
+### ✅ Completed Tasks
+- Ask 2 people on whatsapp if they have heard about the idea and if they have any feedback
+- Top rate the selected title and publish it to the channel
+
 ---
 ## 🔄 Research & Development
 
 ### 📋 Backlog
-- 📚 Abstract concept development: []
-- 🎯 Event research and analysis : []
-- 🗣️ Talk points and presentation flow: []
-- 🖼️ Image asset collection: []
-- 📜 Historical context research: []
-- ✨ Authentic storytelling elements: []
-- 📝 Back pocket paper integration: []
+- 📚 Abstract concept development: [Rifat fills the gap identified the issue and the solution, records as a git repo, example Thanos proxy]
+- 🎯 Event research and analysis : [Do the implemenation with the team in the contract]
+- 🗣️ Talk points and presentation flow: [Rifat will be the host and the guest will be the expert in the field and they pair up to discuss the topic]
+- 🖼️ Image asset collection: [Rifat will collect the imaginary/ui part in the github to be used]
+- 📜 Historical context research: [Rifat will research the historical context of the topic using the journey page]
+- ✨ Authentic storytelling elements: [Rifat will tell the story of the journey page in a way that is engaging and interesting with his story]
+- 📝 Back pocket paper integration: [Rifat will use the pocket paper to write the script with the notes from the research in the prompter project]
 
 ### ⏳ In Progress
 - 🤖 GPT-assisted research questions
-- ✍️ Content outline development: []
-- 💡 Value proposition candidates: []
-- 📊 Key talking points refinement: []
+- ✍️ Content outline development: [the development project is build with the ai]
+- 💡 Value proposition candidates: [Rifat would only use the ai to sort out the issues in the orchestrators]
+- 📊 Key talking points refinement: [Test the talking points in the contract with the mates]
 
 ### ✅ Can Be Done
 - 🎥 B-roll footage planning
-- 📸 Screenshot collection: []
-- 🎬 Expected video output mapping: []
-- 🎭 Role play scenarios: []
-- 📖 Story arc development: []
+- 📸 Screenshot collection: [The git repo should have the base for it]
+- 🎬 Expected video output mapping: [the lacans triad with the numbering would be followed]
+- 🎭 Role play scenarios: [Rifat will be the host and the guest will be the expert in the field and they pair up to discuss the topic]
+- 📖 Story arc development: [Rifat will develop the story arc with the help of the current events in his contract and get the generic parts]
 
 
 ---
 ## 🔄 Development Preview
 
 ### 📋 Backlog
-- 📱 Pocket Paper integration tasks
-- 🔍 Technical feasibility assessment: []
-- 🛠️ Development environment setup: []
+- 📱 Pocket Paper integration tasks: [All notes turn into git commits]
+- 🔍 Technical feasibility assessment: [Rifat will check the technical feasibility of the project by turning the tech on such as prometheus remote write]
+- 🛠️ Development environment setup: [Rifat will setup the development environment with on the local and codespaces like environments]
 - 📊 Data flow mapping: []
 - ⚙️ System architecture planning: []
 
