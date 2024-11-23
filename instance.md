@@ -112,9 +112,9 @@
    - 🎯 Continuous improvement tracking: [Reporting at the enterprise level with the trainings]
 
 ### 📈 Measurable Outcomes
-- 🎯 Weekly content delivery: []
-- 📚 Monthly course updates: []
-- 🔄 Quarterly product iterations: []
+- 🎯 Weekly content delivery: [1 video a week]
+- 📚 Monthly course updates: [10 courses that gets updated from the devops context]
+- 🔄 Quarterly product iterations: [1 product iteration a quarter]
 - 💡 Community growth metrics
 
 ### 📚 Key References
