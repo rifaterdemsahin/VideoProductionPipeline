@@ -78,12 +78,7 @@
    - 🤝 Operator and Instance structure support each other
    - 📚 Weekly preprod learnings
 
-📋 Guide Workflows:
-   A-E ➡️ 🔄 Friction ➡️ 📝 Content ➡️ 🌟 DIVERGENCE ➡️ 📦 Packing ➡️ 👁️ Visual Walkthrough 2024 v7
 
-   R-Z ➡️ 🔄 Friction ➡️ 📝 Content ➡️ 🌟 DIVERGENCE ➡️ 📦 Packing ➡️ 👁️ Visual Walkthrough 2024 v7
-
-   L-Q ➡️ 🔄 Friction ➡️ 📝 Content ➡️ 🌟 DIVERGENCE ➡️ 📦 Packing ➡️ 👁️ Visual Walkthrough 2024 v7
 
 ✅ Output Checklist:
    - 🔧 Latest techniques added
@@ -104,9 +99,13 @@
    - ✅ Output checkmarks
 
 References:
-- https://www.canva.com/design/DAGLeONjcvo/5VkTpoCYQLTALTUCT9BNOA/edit
-- https://www.canva.com/design/DAGJIWW-b-8/3dTWl3icFYzdmo0NdpBAFw/edit
-- https://www.canva.com/design/DAGLeONjcvo/5VkTpoCYQLTALTUCT9BNOA/edit
+📋 Guide Workflows:
+   name: A-E ➡️ 🔄 Friction ➡️ 📝 Content ➡️ 🌟 DIVERGENCE ➡️ 📦 Packing ➡️ 👁️ Visual Walkthrough 2024 v7
+   link: https://www.canva.com/design/DAGLeONjcvo/5VkTpoCYQLTALTUCT9BNOA/edit
+   name: R-Z ➡️ 🔄 Friction ➡️ 📝 Content ➡️ 🌟 DIVERGENCE ➡️ 📦 Packing ➡️ 👁️ Visual Walkthrough 2024 v7
+   link: https://www.canva.com/design/DAGJIWW-b-8/3dTWl3icFYzdmo0NdpBAFw/edit
+   name: L-Q ➡️ 🔄 Friction ➡️ 📝 Content ➡️ 🌟 DIVERGENCE ➡️ 📦 Packing ➡️ 👁️ Visual Walkthrough 2024 v7
+link: https://www.canva.com/design/DAGLeONjcvo/5VkTpoCYQLTALTUCT9BNOA/edit
 
 💭 Prompts:
    - update with emojiis 
