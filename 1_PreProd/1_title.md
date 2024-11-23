@@ -1,118 +1,116 @@
+# 🎬 Title Development Process
 
-🧠 Description 
+## 🧠 Description
+- Utilize pen-and-paper approach to refine video title ideas
+- Iterate concepts through feedback and adjustments
+- Analyze target audience pain points and gains
+- Document real incidents/events that inspire video ideas
 
- 
+## 🕰️ Previous Retrospective
+- Be flexible with title evolution throughout the week
+- Research and validate real value proposition
 
-Converge using a pen-and-paper approach to refine ideas for title,  
+## 🔄 Process Flow
+### 💡 Initial Steps
+- Log work progress systematically
+- Track iterative changes
+- Embrace concept evolution
 
-Iterating them into the next stage by incorporating feedback and final adjustments 
+### ✂️ Refinement
+- Remove weak/unnecessary elements
+- Allow transformation based on weekly learnings
+- Focus on core value proposition
+- Pen convergence
 
-Describe the customer job that you have in that week. 
 
-Pain, Gain what can you do  
+### 📈 Story Development
+- Start with challenging concepts
+- Shift focus toward empowering narratives
+- Build compelling story arcs
 
-the incident for a video idea The is real the bomb unexpected event 
+### 🤖 AI Enhancement
+- Leverage GPT for idea iteration
+- Use AI tools for content refinement
+- Maintain consistent improvement cycle
+- Fears and the wants and needs outlined
 
- 
+### 📚 Continuous Improvement
+- Integrate concepts into broader narrative
+- Align with personal/professional growth
+- Document evolution process
+- Weekly learnings outlined
 
-🕰️ Previous Retro 
+## 🔍 Input Analysis
+- Weekly retrospective review
+- Resource leverage assessment
+- Market trend analysis
 
- 
+## 🎨 Output Checklist
+### Technical Elements
+- [ ] Implement latest techniques
+- [ ] Optimize structure
+- [ ] Iterate title variations
 
-Title changes with the idea during the week be ready for it. 
+### Content Strategy
+- [ ] Build initial framework
+- [ ] Research trending topics
+- [ ] Craft curiosity-driving elements
+- [ ] Develop catchy titles
+- [ ] Focus on niche specifics
 
-Reseach and dev related find the real value 
+### Development Phases
+- [ ] Idea generation
+- [ ] Research validation
+- [ ] Development iteration
+- [ ] Pen convergence
+- [ ] Technical integration
+- [ ] Structure refinement
 
-🔄 Process and Transformation: 
+## ✏️ Convergence Tools
+### 💡 Title Generation Prompts
+Example prompt: "Generate 3 catchy YouTube titles from transcript > [Content]"
 
-💡 Start the Process: 
-Begin by logging your work and keeping track of each step. The idea can shift as you progress—expect change, and embrace it. 
+## 📝 Strategic Notes
+- Focus on uncertainty management and adaptability
+- Address viewer concerns about industry changes
+- Explore topics like antifragility vs. resilience
+- Prepare content for unpredictable market shifts
+- Document insights on AI advancement impacts
 
-✂️ Cut and Transform: 
-Cut out the unnecessary or weak parts of the concept. Expect it to transform, depending on what you did or learned that week. 
+## 📋 Title Development Workflow
 
-📈 Evolving Narrative: 
-The idea might start challenging, but as you work on it, the focus should shift toward a more positive and empowering direction. 
+### 🔄 Backlog
+- Initial title ideas and brainstorming
+- Market research and trend analysis
+- Target audience pain points
 
-🤖 Use GPT for Refinement: 
-Use GPT to iterate on your ideas, making refinements as you go. It’s a tool for constant improvement, helping shape the concept into something impactful. 
+### ⏳ In Progress 
+- AI-assisted title generation and refinement
+- A/B testing variations
+- Feedback collection from team
 
-📚 Keep Refining: 
-Keep working on it until the idea becomes part of your personal or professional story, evolving into a reflection of your growth. 
+### ✅ Done
+- WhatsApp group validation
+- Historical performance analysis
+- Final title selection
 
- 
+### 📊 Process Tools
+- Storyboard Template: [1 Slide Per Minute](https://www.canva.com/design/DAGR8Ok3K-o/tMkFtp2Sde65ZcP_oA2pFw/edit)
 
- 
+### 🎯 Title Generation Framework
+1. Base Prompt:
 
-🔍 Inputs 
-
- 
-
-What happened last week ? 
-
-What did I leverage last week ? 
-
-🎨 Output Check List 
-
- 
-
-✅ Latest techniques add 
-
-✅ Recreate the structure 
-
-✅ Iterate on the title 
-
-✅ Initial stage: build and iterate 
-
-✅ Trending topic 
-
-✅ Trigger curiosity 
-
-✅ Catchy title 
-
-✅ Double down on the niche 
-
-Idea 
-
-Research 
-
-Development 
-
-✅ Pen converge 
-
-Latest techniques added 
-
-Recreate the structure 
-
-✏️ Pen Converge 
-
- 
-
-💡 Prompt Converge   
-
- 
-
-Give 3 examples of Write a catchy YouTube title from this transcript > XXX 
-
- 
-
-📝 Notes 
-
- 
-
- 
-
-Address Uncertainty & Adaptability: The viewer highlighted the key message of thriving in uncertainty. You could create more content on how people can prepare for unpredictable changes, like advancements in AI, industry shifts, or economic changes. Topics like antifragility vs. resilience can be expanded upon in more depth. 
-
- 
 
  
 💭 Prompts:
-    - add or update with emojis 
-    - 🎬 Video pre production context adapt
-    - 📝 Document Workflow for preprod 
-    - 🔧 Latest tech map
-    - Remove or fix the gaps in the markdown
-    - Add Remove markdown formatting for headers subheaders and lists
+    - 🎯 Add or update content with relevant emojis
+    - 🎬 Adapt content for video pre-production context
+    - 📝 Document and optimize pre-production workflow
+    - 🔧 Update technical implementation mapping
+    - 🔍 Review and fix markdown formatting gaps
+    - ✨ Enhance headers, subheaders and list formatting
+    - 📊 Validate content structure and flow
+    - 🎨 Apply consistent styling guidelines
+    - 🔄 Iterate based on team feedback
 
 
