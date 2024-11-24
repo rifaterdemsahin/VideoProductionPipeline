@@ -1,0 +1,1 @@
+Screen shots of the implementation from the canva and davinci resolve

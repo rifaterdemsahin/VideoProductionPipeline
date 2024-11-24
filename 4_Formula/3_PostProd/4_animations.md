@@ -20,29 +20,30 @@
 
 ### 1️⃣ Pre-Animation Setup
 - 🎬 Footage Review & Marking
-  - Identify key segments
-  - Map transition points
-  - Document timing specs
+  - Identify key segments in the marker cuts with davinci resolve transcribe
+  - Map transition points with the related animations and time them with the gpt
+  - Document timing specs with prompter instance project
 
 ### 2️⃣ Design Environment
 - 🎨 Canva Workspace Setup
-  - Initialize project space
-  - Asset library import
-  - Animation preset configuration
+  - Initialize project space from copy of the previous step footage sourced
+  - Asset library import from the marker cuts as the main
+  - Animation preset configuration use the source canva animations template to copy paste
 
 ### 3️⃣ Animation Standards & Guidelines
 - 🔄 Motion Effects
   - Rise animation (3s duration)
-  - Golden ratio positioning
-  - 30/60/120 timing framework
-  - Typography consistency
+  - Golden ratio positioning by having the lines ready in the master template 
+  - 3 sec minimum/6 sec for a static shot /120 sec for a value list section for the timing framework
+  - Typography  by using the brand fonts and colors
 
 ### 4️⃣ Quality Assurance
 - 🔍 Technical Review
-  - Subtitle positioning
-  - Marker cleanup
-  - Element placement
-  - Transition smoothness
+  - Subtitle positioning at the end with davinci resolve for all of the project
+  - Marker cleanup for not used elements in the project
+  - Element placement by using the canva guidelines
+  - Transition smoothness by bulk implementation
+  - Delete the golden ratio of timelines 
 
 ### 5️⃣ Final Validation
 - ✅ Comprehensive Check
